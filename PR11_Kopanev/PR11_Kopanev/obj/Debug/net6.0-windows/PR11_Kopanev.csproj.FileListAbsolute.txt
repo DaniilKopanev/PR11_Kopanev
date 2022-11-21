@@ -1,0 +1,5 @@
+C:\Users\Saiz\source\repos\PR11_Kopanev\PR11_Kopanev\obj\Debug\net6.0-windows\PR11_Kopanev.csproj.AssemblyReference.cache
+C:\Users\Saiz\source\repos\PR11_Kopanev\PR11_Kopanev\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Saiz\source\repos\PR11_Kopanev\PR11_Kopanev\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Saiz\source\repos\PR11_Kopanev\PR11_Kopanev\obj\Debug\net6.0-windows\PR11_Kopanev_MarkupCompile.cache
+C:\Users\Saiz\source\repos\PR11_Kopanev\PR11_Kopanev\obj\Debug\net6.0-windows\PR11_Kopanev_MarkupCompile.lref
